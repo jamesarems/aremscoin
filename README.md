@@ -1,0 +1,2 @@
+# aremscoin
+Crypto Coin
